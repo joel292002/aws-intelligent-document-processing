@@ -107,4 +107,4 @@ The search Lambda function scans the DynamoDB table and returns documents that c
 
 
 
-## Project Structure
+
