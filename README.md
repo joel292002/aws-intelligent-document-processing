@@ -24,9 +24,7 @@ Workflow:
 
 ---
 
-## System Architecture Diagram
 
-![Architecture Diagram](diagrams/architecture-diagram.png)
 
 ---
 
